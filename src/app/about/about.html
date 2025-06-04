@@ -1,0 +1,94 @@
+<!-- Header & Hero Section -->
+<section class="relative h-24 bg-cover bg-center" style="background-image: url('../../assets/aboutBack.png');"></section>
+
+<section class="py-16 bg-white text-black mt-10" > 
+  <div class="max-w-6xl mx-auto px-4">
+
+    <!-- ABOUT + VISIÓN + MISIÓN -->
+    <div class="grid md:grid-cols-2 gap-10 items-start">
+      <div>
+        <h1 class="text-4xl font-bold uppercase mb-6">{{ 'ABOUT_US.TITLE' | translate }}</h1>
+        <p class="mb-4">
+         {{ 'ABOUT_US.DESCRIPTION_1' | translate }}
+        </p>
+        <p class="mb-10">
+         {{ 'ABOUT_US.DESCRIPTION_2' | translate }}
+        </p>
+
+        <h2 class="text-2xl font-bold uppercase mb-4">{{ 'ABOUT_US.VISION.TITLE' | translate }}</h2>
+        <p class="mb-6">
+          {{ 'ABOUT_US.VISION.DESCRIPTION' | translate }}
+        </p>
+
+        <h2 class="text-2xl font-bold uppercase mb-4">{{ 'ABOUT_US.MISSION.TITLE' | translate }}</h2>
+        <ul class="list-disc list-inside mb-6 space-y-2">
+          <li>{{ 'ABOUT_US.MISSION.LIST_1' | translate }}</li>
+          <li>{{ 'ABOUT_US.MISSION.LIST_2' | translate }}.</li>
+          <li>{{ 'ABOUT_US.MISSION.LIST_3' | translate }}</li>
+        </ul>
+      </div>
+
+      <div class="flex justify-center">
+        <img src="/assets/about1.png" alt="Imagen Institucional" class="w-full max-w-lg h-[600px] object-cover rounded-lg" />
+      </div>
+    </div>
+
+    <!-- IMAGEN HORIZONTAL -->
+    <div class="mt-2 -mx-10 lg:-mx-20">
+      <img src="/assets/about2.png" alt="Equipo de trabajo" class="w-[calc(100%+5rem)] lg:w-[calc(100%+10rem)] object-cover rounded-lg" />
+    </div>
+
+    <!-- SECCIÓN SERVICIOS -->
+    <section class="py-20 bg-white text-black">
+    <div class="max-w-6xl mx-auto px-4 space-y-16">
+
+        <!-- TITULAR EN DOS COLUMNAS -->
+        <div class="grid md:grid-cols-2 gap-8 items-center">
+        <!-- TÍTULO -->
+        <h2 class="text-5xl font-bold uppercase">{{ 'SERVICES.TITLE' | translate }}</h2>
+
+        <!-- PÁRRAFO -->
+        <p class="text-lg text-justify">
+            {{ 'SERVICES.DESCRIPTION' | translate }}
+        </p>
+        </div>
+
+        <!-- TARJETAS -->
+        <div class="grid md:grid-cols-2 gap-10 justify-center">
+
+        <!-- CARD 1: INGENIERÍA -->
+        <div class="group cursor-pointer w-full h-auto bg-white rounded-[8px] border border-[rgba(0,0,255,0.2)] shadow-[12px_12px_2px_1px_rgba(0,0,255,0.2)] transition-all duration-300 hover:shadow-[-12px_12px_2px_-1px_rgba(0,0,255,0.2)] p-8 flex flex-col justify-start text-left">
+            <h3 class="text-2xl font-bold mb-4">{{ 'SERVICES.ENGINEERING.TITLE' | translate }}</h3>
+            <p class="text-base text-gray-700 mb-4">
+           {{ 'SERVICES.ENGINEERING.DESCRIPTION' | translate }}
+            </p>
+            <ul class="list-disc list-inside space-y-1 text-base text-gray-700 opacity-0 max-h-0 overflow-hidden transition-all duration-500 group-hover:opacity-100 group-hover:max-h-96">
+            <li>{{ 'SERVICES.ENGINEERING.LIST_1' | translate }}</li>
+            <li>{{ 'SERVICES.ENGINEERING.LIST_2' | translate }}</li>
+            <li>{{ 'SERVICES.ENGINEERING.LIST_3' | translate }}</li>
+            <li>{{ 'SERVICES.ENGINEERING.LIST_4' | translate }}</li>
+            </ul>
+        </div>
+
+        <!-- CARD 2: PROYECTOS -->
+        <div class="group cursor-pointer w-full h-auto bg-white rounded-[8px] border border-[rgba(0,0,255,0.2)] shadow-[12px_12px_2px_1px_rgba(0,0,255,0.2)] transition-all duration-300 hover:shadow-[-12px_12px_2px_-1px_rgba(0,0,255,0.2)] p-8 flex flex-col justify-start text-left">
+            <h3 class="text-2xl font-bold mb-4">{{ 'SERVICES.PROJECTS.TITLE' | translate }}</h3>
+            <p class="text-base text-gray-700 mb-4">
+            {{ 'SERVICES.PROJECTS.DESCRIPTION' | translate }}
+            </p>
+            <ul class="list-disc list-inside space-y-1 text-base text-gray-700 opacity-0 max-h-0 overflow-hidden transition-all duration-500 group-hover:opacity-100 group-hover:max-h-96">
+            <li>{{ 'SERVICES.PROJECTS.LIST_1' | translate }}</li>
+            <li>{{ 'SERVICES.PROJECTS.LIST_2' | translate }}</li>
+            <li>{{ 'SERVICES.PROJECTS.LIST_3' | translate }}</li>
+            <li>{{ 'SERVICES.PROJECTS.LIST_4' | translate }}</li>
+            <li>{{ 'SERVICES.PROJECTS.LIST_5' | translate }}</li>
+            </ul>
+        </div>
+
+        </div>
+
+
+    </div>
+    </section>
+
+

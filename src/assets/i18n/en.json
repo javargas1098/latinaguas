@@ -1,0 +1,107 @@
+{
+  "HOME": "Home",
+  "PRODUCTS": "Products",
+  "ABOUT_US": "About Us",
+  "CONTACT": "Contact",
+
+  "hero.title": "WATER FOR EVERYONE",
+  "hero.button": "Explore More",
+
+  "about.title": "About Us",
+  "about.description": "We are a company established in the Colombian market since the year 2000, offering products and services in the field of public water supply systems, including potable, wastewater, and industrial water treatment.",
+  "about.description2": "Our team is composed of highly qualified professionals who provide technical advice and personalized service, delivering comprehensive solutions tailored to both national and international needs.",
+
+  "products.title": "Products",
+  "products.card1.title": "High Quality & Experience",
+  "products.card1.description": "Over 20 years providing water treatment solutions in Colombia.",
+  "products.card2.title": "Personalized Service",
+  "products.card2.description": "Expert guidance tailored to your needs with full support.",
+  "products.card3.title": "Social Mission",
+  "products.card3.description": "We bring clean water to vulnerable communities in Colombia.",
+  "products.card4.title": "Innovation",
+  "products.card4.description": "Leading in automation and unique water treatment systems.",
+  "products.button": "See Products",
+
+  "services.title": "What We Offer?",
+  "services.card1.title": "Projects",
+  "services.card1.description": "We design and build compact or conventional treatment plants, disinfection systems, SCADA automation, and leak neutralization systems.",
+  "services.card2.title": "Services",
+  "services.card2.description": "We offer engineering, maintenance, diagnostics, training, water quality control, and automation for potable and residual water systems.",
+  "services.card3.title": "Support",
+  "services.card3.description": "Continuous technical and operational support to ensure long-term success of your water systems.",
+  "services.button": "See More",
+
+  "PRODUCTS_TITLE": "Products",
+  "VIDEO_FALLBACK": "Your browser does not support video playback.",
+  "CATEGORY_LABEL": "Category",
+  "DETAILS_BUTTON": "+",
+  "MODAL_BACK_BUTTON": "Back",
+  "MODAL_IMAGE_ALT": "Product image",
+  "MODAL_NAME_LABEL": "Name",
+  "MODAL_DESCRIPTION_LABEL": "Description",
+
+  "PRODUCT_1_NAME": "ON-LINE Chlorinator A-100",
+  "PRODUCT_1_CATEGORY": "Disinfection equipment",
+  "PRODUCT_1_DESCRIPTION": "Operates fully under vacuum for manual dosage control.\nCapacities: 1Lb/day, 25Lb/day, 50Lb/day, 100Lb/day.\nUses: treatment plants, irrigation, food industry, paper mills, etc.",
+  "PRODUCT_2_NAME": "Solenoid Valve",
+  "PRODUCT_2_CATEGORY": "Automatic dosing",
+  "PRODUCT_2_DESCRIPTION": "Automatic system to control flow in chlorination.",
+
+  "ABOUT_US.TITLE": "About Us",
+  "ABOUT_US.DESCRIPTION_1": "We are a company established in the Colombian market since the year 2000, offering products and services to meet the needs in the field of public aqueduct services for the treatment of drinking, wastewater, and industrial water.",
+  "ABOUT_US.DESCRIPTION_2": "We have highly qualified personnel to provide technical advice and personalized service in order to offer comprehensive solutions for the national and international markets.",
+  "ABOUT_US.VISION.TITLE": "Vision",
+  "ABOUT_US.VISION.DESCRIPTION": "To establish ourselves in the national and international market as one of the leading companies in the water treatment sector, with high-quality products and services.",
+  "ABOUT_US.MISSION.TITLE": "Mission",
+  "ABOUT_US.MISSION.LIST_1": "Reach the most vulnerable areas of Colombia...",
+  "ABOUT_US.MISSION.LIST_2": "Offer the best prices while providing the best service.",
+  "ABOUT_US.MISSION.LIST_3": "Stand out with our unique equipment such as the chlorine doser.",
+  "SERVICES.TITLE": "Services",
+  "SERVICES.DESCRIPTION": "We offer a wide range of specialized services that cover everything from treatment plant design to full process automation. Our approach combines technical expertise, highly qualified staff, and customized solutions to optimize water treatment and improve operational efficiency in hydraulic systems.",
+  "SERVICES.ENGINEERING.TITLE": "Engineering",
+  "SERVICES.ENGINEERING.DESCRIPTION": "Our team of chemical, civil, and technical engineers analyzes, executes, and optimizes water purification processes, ensuring water quality and operational safety.",
+  "SERVICES.ENGINEERING.LIST_1": "Diagnosis of treatment systems and equipment.",
+  "SERVICES.ENGINEERING.LIST_2": "Step-by-step verification of plant processes.",
+  "SERVICES.ENGINEERING.LIST_3": "Maintenance of dosers and chlorine residual systems.",
+  "SERVICES.ENGINEERING.LIST_4": "Ongoing technical field support.",
+  "SERVICES.PROJECTS.TITLE": "Projects",
+  "SERVICES.PROJECTS.DESCRIPTION": "We design and implement complete water treatment solutions. From compact systems to advanced automation using SCADA technologies.",
+  "SERVICES.PROJECTS.LIST_1": "Construction of compact or conventional plants.",
+  "SERVICES.PROJECTS.LIST_2": "Installation of chlorination and disinfection cabins.",
+  "SERVICES.PROJECTS.LIST_3": "Gas chlorine leak neutralization systems.",
+  "SERVICES.PROJECTS.LIST_4": "Automation and control of variables (pH, chlorine, turbidity).",
+  "SERVICES.PROJECTS.LIST_5": "Implementation of customized SCADA systems.",
+
+
+   "contact": {
+    "title": "Contact us",
+    "subtitle": "Latinaguas is ready to provide the right solution according to your needs",
+    "getInTouch": "Get in touch",
+    "description": "Sociis natoque viverra lectus placerat sem efficitur molestie vehicula cubilia leo etiam nam.",
+    "office": {
+      "title": "Office",
+      "address": "Suegrito Javi\nColombia"
+    },
+    "email": {
+      "title": "Email Us",
+      "addresses": "support@yourdomain.tld"
+    },
+    "phone": {
+      "title": "Call Us",
+      "numbers": "Phone: +6221.2020.2012"
+    },
+    "social": {
+      "title": "Follow our social media"
+    },
+    "form": {
+      "title": "Send us a message",
+      "name": "Name",
+      "company": "Company",
+      "phone": "Phone",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send"
+    }
+  }
+}

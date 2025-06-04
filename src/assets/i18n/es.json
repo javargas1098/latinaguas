@@ -1,0 +1,111 @@
+{
+  "HOME": "Inicio",
+  "PRODUCTS": "Productos",
+  "ABOUT_US": "Sobre Nosotros",
+  "CONTACT": "Contacto",
+
+  "hero.title": "AGUA PARA TODOS",
+  "hero.button": "Explorar más",
+
+  "about.title": "Sobre Nosotros",
+  "about.description": "Somos una empresa establecida en el mercado colombiano desde el año 2000, ofreciendo productos y servicios en el campo de los sistemas públicos de suministro de agua, incluyendo tratamiento de agua potable, residual e industrial.",
+  "about.description2": "Nuestro equipo está compuesto por profesionales altamente calificados que brindan asesoría técnica y un servicio personalizado, ofreciendo soluciones integrales adaptadas a necesidades tanto nacionales como internacionales.",
+
+  "products.title": "Productos",
+  "products.card1.title": "Alta Calidad y Experiencia",
+  "products.card1.description": "Más de 20 años brindando soluciones de tratamiento de agua en Colombia.",
+  "products.card2.title": "Servicio Personalizado",
+  "products.card2.description": "Asesoría experta adaptada a tus necesidades con soporte completo.",
+  "products.card3.title": "Misión Social",
+  "products.card3.description": "Llevamos agua limpia a comunidades vulnerables en Colombia.",
+  "products.card4.title": "Innovación",
+  "products.card4.description": "Lideramos en automatización y sistemas únicos de tratamiento de agua.",
+  "products.button": "Ver Productos",
+
+  "services.title": "¿Qué Ofrecemos?",
+  "services.card1.title": "Proyectos",
+  "services.card1.description": "Diseñamos y construimos plantas de tratamiento compactas o convencionales, sistemas de desinfección, automatización SCADA y sistemas de neutralización de fugas.",
+  "services.card2.title": "Servicios",
+  "services.card2.description": "Ofrecemos ingeniería, mantenimiento, diagnósticos, capacitaciones, control de calidad del agua y automatización para sistemas de agua potable y residual.",
+  "services.card3.title": "Soporte",
+  "services.card3.description": "Soporte técnico y operativo continuo para garantizar el éxito a largo plazo de tus sistemas de agua.",
+  "services.button": "Ver Más",
+
+  "PRODUCTS_TITLE": "Productos",
+  "VIDEO_FALLBACK": "Tu navegador no soporta la reproducción de video.",
+  "CATEGORY_LABEL": "Categoría",
+  "DETAILS_BUTTON": "+",
+  "MODAL_BACK_BUTTON": "Atrás",
+  "MODAL_IMAGE_ALT": "Imagen producto",
+  "MODAL_NAME_LABEL": "Nombre",
+  "MODAL_DESCRIPTION_LABEL": "Descripción",
+
+  "PRODUCT_1_NAME": "Clorinador ON-LINE A-100",
+  "PRODUCT_1_CATEGORY": "Equipos de desinfección",
+  "PRODUCT_1_DESCRIPTION": "Opera totalmente al vacío para control manual de dosificación.\nCapacidades: 1Lb/día, 25Lb/día, 50Lb/día, 100Lb/día.\nUsos: plantas de tratamiento, irrigación, industrias de alimentos, papelera, etc.",
+  "PRODUCT_2_NAME": "Electroválvula",
+  "PRODUCT_2_CATEGORY": "Dosificación automática",
+  "PRODUCT_2_DESCRIPTION": "Sistema automático para controlar el flujo en cloración.",
+
+  "ABOUT_US.TITLE": "Sobre Nosotros",
+  "ABOUT_US.DESCRIPTION_1": "Somos una empresa establecida en el mercado colombiano desde el año 2000, que ofrece sus productos y servicios para satisfacer las necesidades en el campo de la prestación de servicios públicos de acueductos para tratamiento de agua potable, residual e industrial.",
+  "ABOUT_US.DESCRIPTION_2": "Contamos con personal altamente calificado para ofrecer asesoría técnica y atención personalizada, con el fin de ofrecer soluciones integrales frente a las necesidades del mercado nacional e internacional.",
+  "ABOUT_US.VISION.TITLE": "Visión",
+  "ABOUT_US.VISION.DESCRIPTION": "Asentarse en el mercado nacional e internacional siendo reconocidos como una de las primeras empresas en el sector de tratamiento de aguas, con productos y servicios de alta calidad.",
+  "ABOUT_US.MISSION.TITLE": "Misión",
+  "ABOUT_US.MISSION.LIST_1": "Llegar a los lugares más vulnerables de Colombia...",
+  "ABOUT_US.MISSION.LIST_2": "Ofrecer los mejores precios, brindando el mejor servicio.",
+  "ABOUT_US.MISSION.LIST_3": "Destacarnos por nuestros equipos únicos como el dosificador de cloro.",
+  "SERVICES.TITLE": "Servicios",
+  "SERVICES.DESCRIPTION": "Ofrecemos una amplia gama de servicios especializados que abarcan desde el diseño de plantas de tratamiento hasta la automatización completa de los procesos. Nuestro enfoque combina experiencia técnica, personal altamente calificado y soluciones personalizadas para optimizar el tratamiento de aguas y mejorar la eficiencia operativa de sistemas hidráulicos.",
+  "SERVICES.ENGINEERING.TITLE": "Ingeniería",
+  "SERVICES.ENGINEERING.DESCRIPTION": "Nuestro equipo de ingenieros químicos, civiles y técnicos analiza, ejecuta y optimiza procesos de potabilización, garantizando agua de calidad y seguridad operativa.",
+  "SERVICES.ENGINEERING.LIST_1": "Diagnóstico de sistemas de tratamiento y equipos.",
+  "SERVICES.ENGINEERING.LIST_2": "Verificación paso a paso de procesos de planta.",
+  "SERVICES.ENGINEERING.LIST_3": "Mantenimiento de dosificadores y cloro residual.",
+  "SERVICES.ENGINEERING.LIST_4": "Soporte técnico continuo en campo.",
+  "SERVICES.PROJECTS.TITLE": "Proyectos",
+  "SERVICES.PROJECTS.DESCRIPTION": "Diseñamos y ejecutamos soluciones completas de tratamiento de agua. Desde sistemas compactos hasta automatización avanzada con tecnologías SCADA.",
+  "SERVICES.PROJECTS.LIST_1": "Construcción de plantas compactas o convencionales.",
+  "SERVICES.PROJECTS.LIST_2": "Instalación de casetas de cloración y desinfección.",
+  "SERVICES.PROJECTS.LIST_3": "Sistemas de neutralización de fugas de cloro gas.",
+  "SERVICES.PROJECTS.LIST_4": "Automatización y control de variables (pH, cloro, turbidez).",
+  "SERVICES.PROJECTS.LIST_5": "Implementación de sistemas SCADA adaptados.",
+
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Latinaguas está lista para ofrecer la solución adecuada según tus necesidades",
+    "getInTouch": "Ponte en contacto",
+    "description": "Sociis natoque viverra lectus placerat sem efficitur molestie vehicula cubilia leo etiam nam.",
+    "office": {
+      "title": "Oficina",
+      "address": "Suegrito Javi\nColombia"
+    },
+    "email": {
+      "title": "Envíanos un correo",
+      "addresses": "support@yourdomain.tld"
+    },
+    "phone": {
+      "title": "Llámanos",
+      "numbers": "Teléfono: +6221.2020.2012"
+    },
+    "social": {
+      "title": "Síguenos en redes sociales"
+    },
+    "form": {
+      "title": "Envíanos un mensaje",
+      "name": "Nombre",
+      "company": "Empresa",
+      "phone": "Teléfono",
+      "email": "Correo electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar"
+    }
+  }
+
+
+  
+
+}
+
