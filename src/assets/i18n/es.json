@@ -46,6 +46,197 @@
   "PRODUCT_2_NAME": "Electroválvula",
   "PRODUCT_2_CATEGORY": "Dosificación automática",
   "PRODUCT_2_DESCRIPTION": "Sistema automático para controlar el flujo en cloración.",
+  "PRODUCT_3_NAME": "Conexiones flexibles para cloro",
+  "PRODUCT_3_CATEGORY": "Accesorios para sistemas de cloración",
+  "PRODUCT_3_DESCRIPTION": "Tubería metálica flexible en espiral utilizada para conectar equipos dosificadores de cloro gaseoso. Permite absorber vibraciones, facilitar el montaje y reducir esfuerzos mecánicos sobre las válvulas y reguladores.\nMaterial: acero inoxidable.\nAplicaciones: plantas de tratamiento de agua potable e industrial, sistemas de desinfección con cloro gaseoso.",
+  "PRODUCT_4_NAME": "Válvulas Sherwood",
+  "PRODUCT_4_CATEGORY": "Componentes para cloración",
+  "PRODUCT_4_DESCRIPTION": "Válvulas de seguridad tipo Sherwood diseñadas para cilindros de cloro gaseoso. Fabricadas en latón de alta resistencia, garantizan un cierre seguro y duradero. Compatibles con reguladores y sistemas de dosificación.\nUsos: sistemas de cloración en plantas de tratamiento de agua potable, residual e industrial.",
+  "PRODUCT_5_NAME": "Resistencias para cilindros de cloro",
+  "PRODUCT_5_CATEGORY": "Accesorios para sistemas de cloración",
+  "PRODUCT_5_DESCRIPTION": "Resistencias eléctricas tipo banda diseñadas para calentar la zona de vaporización en cilindros de cloro gaseoso. Favorecen la conversión eficiente del cloro líquido a gas, asegurando un suministro constante.\nMaterial: acero inoxidable con recubrimiento aislante.\nAplicaciones: sistemas de dosificación de cloro en plantas de tratamiento de agua.",
+  "PRODUCT_6_NAME": "Filtros de gas cloro",
+  "PRODUCT_6_CATEGORY": "Componentes para cloración",
+  "PRODUCT_6_DESCRIPTION": "Filtro diseñado para eliminar impurezas sólidas del cloro gaseoso antes de ingresar al regulador o dosificador. Fabricado en hierro fundido con recubrimiento anticorrosivo y elemento filtrante interno reemplazable.\nAplicaciones: sistemas de cloración en plantas de tratamiento de agua potable, residual e industrial.",
+  "PRODUCT_7_NAME": "Manifold (trampa para cloro)",
+  "PRODUCT_7_CATEGORY": "Sistemas de seguridad para cloración",
+  "PRODUCT_7_DESCRIPTION": "Sistema de conexión múltiple que actúa como trampa para cloro gaseoso, permitiendo la recolección de posibles fugas y facilitando la conexión de varios cilindros. Incluye válvula check, purga, y sensor de detección de gas (opcional).\nAplicaciones: plantas de tratamiento de agua, estaciones de dosificación de cloro, instalaciones industriales.",
+  "PRODUCT_8_NAME": "Básculas de tonelada para cilindros de cloro",
+  "PRODUCT_8_CATEGORY": "Instrumentación y control",
+  "PRODUCT_8_DESCRIPTION": "Plataformas electrónicas de alta resistencia para pesar cilindros de cloro de una tonelada. Permiten monitoreo preciso del consumo de gas en sistemas de cloración.\nFabricadas en acero pintado con celdas de carga de alta precisión.\nAplicaciones: plantas de tratamiento de agua, instalaciones industriales que usan cloro gaseoso.",
+  "PRODUCT_9_NAME": "Detector de fugas de gas cloro",
+  "PRODUCT_9_CATEGORY": "Seguridad e instrumentación",
+  "PRODUCT_9_DESCRIPTION": "Detector electrónico para la detección de fugas de gas cloro. Incluye unidad de monitoreo y sensor remoto.\nAlta sensibilidad y rápida respuesta. Indicadores visuales y alarmas para concentración de gas.\nIdeal para plantas de tratamiento de agua, industrias químicas y áreas de almacenamiento de cloro.",
+  "PRODUCT_10_NAME": "Cilindro de gas cloro de una tonelada",
+  "PRODUCT_10_CATEGORY": "Contenedores de gas",
+  "PRODUCT_10_DESCRIPTION": "Cilindro de acero para almacenamiento y transporte de gas cloro, con capacidad de una tonelada.\nDiseñado conforme a normas internacionales de seguridad y presión.\nIdeal para aplicaciones industriales como potabilización de agua, tratamiento de aguas residuales y procesos químicos.",
+  "PRODUCT_11_NAME": "Cilindro de gas cloro de 68 kg",
+  "PRODUCT_11_CATEGORY": "Contenedores de gas",
+  "PRODUCT_11_DESCRIPTION": "Cilindro de acero para almacenamiento y transporte de gas cloro con capacidad de 68 kilogramos.\nUtilizado comúnmente en sistemas de cloración para agua potable, piscinas y procesos industriales.\nDiseñado para cumplir con normas de seguridad y presión vigentes.",
+  "PRODUCT_12_NAME": "Sistema de movilización para cilindros de cloro",
+  "PRODUCT_12_CATEGORY": "Manipulación de cilindros",
+  "PRODUCT_12_DESCRIPTION": "Equipo especializado diseñado para levantar, mover y posicionar cilindros de gas cloro de forma segura y eficiente.\nFabricado en acero estructural con recubrimiento anticorrosivo.\nIncluye mecanismo de sujeción y gancho de izaje compatible con grúas y polipastos industriales.",
+  "PRODUCT_13_NAME": "Bomba dosificadora de productos químicos",
+  "PRODUCT_13_CATEGORY": "Bombas y dosificación",
+  "PRODUCT_13_DESCRIPTION": "Bomba dosificadora de alta precisión utilizada para la inyección controlada de productos químicos como hipoclorito de sodio, sulfato de aluminio, entre otros.\nDiseñada para ofrecer fiabilidad y resistencia química.\nAjuste manual del caudal y motorización eléctrica de alta eficiencia.",
+  "PRODUCT_14_NAME": "Bomba reforzadora de presión",
+  "PRODUCT_14_CATEGORY": "Bombas y sistemas de presurización",
+  "PRODUCT_14_DESCRIPTION": "Bomba centrífuga diseñada para incrementar la presión en sistemas de distribución de agua potable o industrial.\nFabricada en acero inoxidable para mayor durabilidad y resistencia a la corrosión.\nIdeal para instalaciones domésticas, comerciales o de tratamiento de agua.",
+  "PRODUCT_15_NAME": "Medidor de nivel por radar ultrasónico",
+  "PRODUCT_15_CATEGORY": "Instrumentación y control",
+  "PRODUCT_15_DESCRIPTION": "Instrumento sin contacto para medición de nivel en líquidos o sólidos granulados.\nUtiliza tecnología de radar o ultrasonido para una detección precisa y confiable.\nIdeal para tanques, silos y contenedores en aplicaciones de agua potable, aguas residuales, productos químicos o alimentos.",
+  "PRODUCT_16_NAME": "Macro medidor",
+  "PRODUCT_16_CATEGORY": "Medición y control de caudal",
+  "PRODUCT_16_DESCRIPTION": "Medidor de agua tipo Woltman para grandes caudales en aplicaciones municipales e industriales.\nCuerpo robusto de hierro fundido con recubrimiento epóxico para resistencia a la corrosión.\nCompatible con sistemas de telemetría mediante salida de pulsos para monitoreo remoto.",
+  "PRODUCT_17_NAME": "Micromedidores",
+  "PRODUCT_17_CATEGORY": "Medición de agua",
+  "PRODUCT_17_DESCRIPTION": "Dispositivo compacto utilizado para medir con precisión el consumo de agua potable en instalaciones domésticas.\nFabricado en materiales resistentes a la corrosión, con indicador de lectura directa y protección contra manipulaciones.\nIdeal para aplicaciones residenciales y comerciales de pequeña escala.",
+  "PRODUCT_18_NAME": "Medidor electromagnético",
+  "PRODUCT_18_CATEGORY": "Instrumentación y control de caudal",
+  "PRODUCT_18_DESCRIPTION": "Dispositivo de medición de caudal volumétrico que utiliza el principio de inducción electromagnética para líquidos conductivos.\nIdeal para aplicaciones en sistemas de agua potable, aguas residuales e industriales.\nAlta precisión, sin partes móviles, bajo mantenimiento y compatible con diversas condiciones de operación.",
+  "PRODUCT_19_NAME": "Medidor ultrasónico",
+  "PRODUCT_19_CATEGORY": "Medición de caudal y nivel",
+  "PRODUCT_19_DESCRIPTION": "Medidor de caudal no invasivo por ultrasonido para canales abiertos y tuberías parciales.\nProporciona mediciones precisas del flujo de agua sin contacto directo con el líquido.\nIdeal para aplicaciones en plantas de tratamiento, canales de riego y sistemas industriales.",
+  "PRODUCT_20_NAME": "Kit de seguridad de cloro Tipo 'A' americano",
+  "PRODUCT_20_CATEGORY": "Seguridad y emergencia",
+  "PRODUCT_20_DESCRIPTION": "Conjunto de herramientas diseñado para controlar fugas de cloro en cilindros de 68 kg (150 lb).\nIncluye abrazaderas, cadenas, juntas, herramientas y manual de uso conforme a los estándares del Chlorine Institute.\nIndispensable para plantas de tratamiento de agua, industrias químicas y servicios de emergencia.",
+  "PRODUCT_21_NAME": "Kit de seguridad de cloro tipo 'B' americano",
+  "PRODUCT_21_CATEGORY": "Seguridad y manejo de químicos",
+  "PRODUCT_21_DESCRIPTION": "Kit de seguridad diseñado para contener fugas en cilindros de cloro de tonelada.\nIncluye herramientas especializadas, sellos y componentes de contención fabricados conforme a los estándares del Chlorine Institute.\nIndispensable para plantas de tratamiento de agua, industrias químicas y cualquier instalación que utilice cloro a granel.",
+  "PRODUCT_22_NAME": "Traje encapsulado para manejo de químicos peligrosos",
+  "PRODUCT_22_CATEGORY": "Seguridad industrial y protección personal",
+  "PRODUCT_22_DESCRIPTION": "Traje encapsulado de alta resistencia diseñado para la protección total contra sustancias químicas peligrosas.\nIncluye guantes, botas, manual de usuario y bolsa de transporte.\nIdeal para trabajos de emergencia, manejo de cloro y sustancias tóxicas.",
+  "PRODUCT_23_NAME": "Equipo autónomo de respiración (SCBA)",
+  "PRODUCT_23_CATEGORY": "Seguridad industrial y protección personal",
+  "PRODUCT_23_DESCRIPTION": "Equipo autónomo de respiración de alta presión, ideal para intervenciones en ambientes contaminados o con deficiencia de oxígeno.\nIncluye cilindro de aire comprimido, arnés ergonómico, regulador de presión y manómetro.\nUtilizado por personal de emergencias, brigadas de respuesta y trabajos en espacios confinados.",
+  "PRODUCT_24_NAME": "Máscara de cara completa con filtros",
+  "PRODUCT_24_CATEGORY": "Seguridad industrial y protección personal",
+  "PRODUCT_24_DESCRIPTION": "Máscara facial completa equipada con filtros reemplazables, ideal para la protección contra gases, vapores y partículas tóxicas.\nDiseño ergonómico que proporciona un sello hermético y comodidad durante largas jornadas de trabajo.\nRecomendada para uso en ambientes con riesgo químico.",
+  "PRODUCT_25_NAME": "Vitrina de seguridad para emergencia con gas cloro",
+  "PRODUCT_25_CATEGORY": "Seguridad industrial y protección personal",
+  "PRODUCT_25_DESCRIPTION": "Vitrina metálica con puertas de vidrio y señalización de seguridad, equipada con traje encapsulado, botas, guantes y máscara facial completa para atender emergencias con gas cloro.\nDiseñada para acceso rápido en situaciones críticas.",
+  "PRODUCT_26_NAME": "Ducha lavaojos de emergencia",
+  "PRODUCT_26_CATEGORY": "Seguridad industrial y protección personal",
+  "PRODUCT_26_DESCRIPTION": "Estación combinada de ducha y lavaojos de emergencia, fabricada en acero inoxidable.\nDiseñada para proporcionar una rápida descontaminación en caso de contacto con sustancias peligrosas.\nIdeal para instalaciones industriales, laboratorios y plantas de tratamiento químico.",
+  "PRODUCT_27_NAME": "Manga veleta para detección de dirección del viento",
+  "PRODUCT_27_CATEGORY": "Seguridad industrial y protección ambiental",
+  "PRODUCT_27_DESCRIPTION": "Manga veleta de alta visibilidad para indicar la dirección del viento en zonas industriales o de riesgo químico.\nFabricada en tela resistente a la intemperie con soporte metálico para fácil instalación.\nEs esencial para la seguridad en caso de fugas de gases tóxicos o inflamables.",
+  "PRODUCT_28_NAME": "Canaleta Parshall",
+  "PRODUCT_28_CATEGORY": "Módulos de sedimentación",
+  "PRODUCT_28_DESCRIPTION": "La canaleta Parshall es un dispositivo hidráulico utilizado para medir el caudal en canales abiertos. Fabricada en materiales resistentes a la corrosión, permite un monitoreo preciso del flujo de agua en plantas de tratamiento, canales de riego y sistemas hidráulicos.",
+  "PRODUCT_29_NAME": "Planta de tratamiento en fibra de vidrio",
+  "PRODUCT_29_CATEGORY": "Módulos de sedimentación",
+  "PRODUCT_29_DESCRIPTION": "Sistema compacto de tratamiento de aguas fabricado en fibra de vidrio, ideal para pequeñas comunidades o instalaciones industriales. Ofrece resistencia a la corrosión, fácil instalación y bajo mantenimiento, incluyendo procesos como floculación, sedimentación y filtración.",
+  "PRODUCT_30_NAME": "Falsos fondos",
+  "PRODUCT_30_CATEGORY": "Módulos de sedimentación",
+  "PRODUCT_30_DESCRIPTION": "Estructuras instaladas en los tanques de tratamiento para distribuir uniformemente el flujo de agua y mejorar la eficiencia del proceso de sedimentación. Están diseñados para soportar cargas hidráulicas y garantizar una operación continua y efectiva del sistema.",
+  "PRODUCT_31_NAME": "Torre de aireación",
+  "PRODUCT_31_CATEGORY": "Módulos de sedimentación",
+  "PRODUCT_31_DESCRIPTION": "Estructura vertical en fibra de vidrio con bandejas perforadas en serie, diseñada para aumentar el contacto del agua con el aire y así mejorar la oxigenación y eliminación de gases disueltos como el dióxido de carbono y el sulfuro de hidrógeno.",
+  "PRODUCT_32_NAME": "Equipo de jarras de 4 puestos",
+  "PRODUCT_32_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_32_DESCRIPTION": "Dispositivo utilizado en pruebas de coagulación y floculación para simular procesos de tratamiento de agua. Permite evaluar la eficiencia de productos químicos en condiciones controladas con cuatro vasos de mezcla independientes.",
+  "PRODUCT_33_NAME": "Equipo de jarras de 6 puestos",
+  "PRODUCT_33_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_33_DESCRIPTION": "Equipo utilizado para realizar pruebas de coagulación y floculación en el laboratorio. Cuenta con seis vasos de mezcla que permiten simular el proceso de tratamiento de agua en paralelo, facilitando la comparación de diferentes condiciones de operación o productos químicos.",
+  "PRODUCT_34_NAME": "Turbidímetro",
+  "PRODUCT_34_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_34_DESCRIPTION": "Instrumento utilizado para medir la turbidez del agua, es decir, la cantidad de partículas en suspensión que afectan su claridad. Es fundamental en el control de calidad del agua potable y en procesos de tratamiento de aguas residuales.",
+  "PRODUCT_35_NAME": "pH-metro",
+  "PRODUCT_35_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_35_DESCRIPTION": "Equipo utilizado para medir el nivel de acidez o alcalinidad de una solución, expresado como pH. Es fundamental en el monitoreo y control de calidad del agua en plantas de tratamiento, laboratorios y procesos industriales.",
+  "PRODUCT_36_NAME": "Colorímetro",
+  "PRODUCT_36_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_36_DESCRIPTION": "Instrumento portátil utilizado para medir la absorbancia de una sustancia y determinar la concentración de compuestos en solución, basándose en la intensidad del color. Ideal para análisis de calidad del agua y control de procesos químicos.",
+  "PRODUCT_37_NAME": "Conductivímetro",
+  "PRODUCT_37_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_37_DESCRIPTION": "Instrumento portátil para medir la conductividad eléctrica de una solución, lo cual indica la concentración de sales disueltas. Ideal para análisis de calidad del agua en laboratorios y campo.",
+  "PRODUCT_38_NAME": "Fotómetro",
+  "PRODUCT_38_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_38_DESCRIPTION": "Dispositivo para medir la concentración de analitos en soluciones mediante la intensidad de luz absorbida. Ideal para análisis de parámetros como cloro libre, total, pH y otros en agua potable y residual.",
+  "PRODUCT_39_NAME": "Vidriería para laboratorio",
+  "PRODUCT_39_CATEGORY": "Equipos de Laboratorio",
+  "PRODUCT_39_DESCRIPTION": "Conjunto de instrumentos de vidrio como matraces Erlenmeyer, vasos de precipitados, tubos de ensayo y buretas, utilizados para la preparación, mezcla y almacenamiento de soluciones químicas en procesos de análisis y experimentación.",
+  "PRODUCT_40_NAME": "Cloro gaseoso",
+  "PRODUCT_40_CATEGORY": "Químicos",
+  "PRODUCT_40_DESCRIPTION": "Gas utilizado comúnmente como desinfectante en procesos de tratamiento de agua potable y aguas residuales. Se suministra en cilindros a presión y requiere manejo especializado por su toxicidad y reactividad.",
+  "PRODUCT_41_NAME": "Sulfato de aluminio Tipo A",
+  "PRODUCT_41_CATEGORY": "Químicos",
+  "PRODUCT_41_DESCRIPTION": "Coagulante utilizado en el tratamiento de agua potable y aguas residuales. Facilita la remoción de sólidos suspendidos y materia orgánica. Contiene un mínimo de 17% de Al₂O₃ y está certificado para uso en agua potable.",
+  "PRODUCT_42_NAME": "Sulfato de aluminio Tipo B",
+  "PRODUCT_42_CATEGORY": "Químicos",
+  "PRODUCT_42_DESCRIPTION": "Coagulante para el tratamiento de agua potable y aguas residuales. Contiene un mínimo de 15.2% de Al₂O₃. Su formulación incluye hasta 2.0% de hierro y 8.0% de insolubles en agua. Aprobado para uso en agua potable.",
+  "PRODUCT_43_NAME": "Policloruro de aluminio sólido",
+  "PRODUCT_43_CATEGORY": "Químicos",
+  "PRODUCT_43_DESCRIPTION": "Coagulante de alta eficiencia utilizado en el tratamiento de agua potable e industrial. Producto certificado por NSF/ANSI 60. Presentación en saco de 25 kg. Origen: China.",
+  "PRODUCT_44_NAME": "Hidroxicloruro de aluminio líquido",
+  "PRODUCT_44_CATEGORY": "Químicos",
+  "PRODUCT_44_DESCRIPTION": "Coagulante líquido de alto rendimiento utilizado en procesos de clarificación y tratamiento de aguas potables e industriales. Disponible en presentación líquida, facilita la dosificación y manejo en planta.",
+  "PRODUCT_45_NAME": "Hipoclorito de calcio importado granulado",
+  "PRODUCT_45_CATEGORY": "Químicos",
+  "PRODUCT_45_DESCRIPTION": "Desinfectante en presentación granulada con un contenido de cloro disponible del 70%, ideal para tratamiento de aguas potables, piscinas y procesos industriales. Alta solubilidad y poder oxidante.",
+  "PRODUCT_46_NAME": "Hipoclorito de sodio líquido",
+  "PRODUCT_46_CATEGORY": "Químicos",
+  "PRODUCT_46_DESCRIPTION": "Desinfectante líquido de amplio espectro, utilizado en tratamiento de aguas, limpieza y desinfección de superficies. Alta eficacia contra bacterias, virus y hongos. Contenido neto: 3750 mL.",
+  "PRODUCT_47_NAME": "Floculante",
+  "PRODUCT_47_CATEGORY": "Químicos",
+  "PRODUCT_47_DESCRIPTION": "Producto clarificador para tratamiento de aguas que agrupa partículas suspendidas facilitando su eliminación por filtración. Ideal para piscinas con recubrimiento de liner o poliéster. Presentación líquida de fácil aplicación.",
+  "PRODUCT_48_NAME": "Grava",
+  "PRODUCT_48_CATEGORY": "Material Filtrante",
+  "PRODUCT_48_DESCRIPTION": "Material granular utilizado como medio filtrante en sistemas de tratamiento de agua. Ayuda en la retención de partículas sólidas y mejora la eficiencia del proceso de filtración. Disponible en diferentes granulometrías según necesidad del sistema.",
+  "PRODUCT_49_NAME": "Arenas",
+  "PRODUCT_49_CATEGORY": "Material Filtrante",
+  "PRODUCT_49_DESCRIPTION": "Medio filtrante utilizado comúnmente en sistemas de tratamiento de agua para la remoción de sólidos suspendidos. Su granulometría fina permite una alta eficiencia en la filtración de partículas pequeñas.",
+  "PRODUCT_50_NAME": "Antracita",
+  "PRODUCT_50_CATEGORY": "Material Filtrante",
+  "PRODUCT_50_DESCRIPTION": "Carbón mineral utilizado como medio filtrante en sistemas de tratamiento de agua. Su alta dureza y baja densidad permiten una filtración eficiente, prolongando la vida útil de los sistemas multicapa.",
+  "PRODUCT_51_NAME": "Carbón Activado",
+  "PRODUCT_51_CATEGORY": "Material Filtrante",
+  "PRODUCT_51_DESCRIPTION": "Material poroso utilizado en la purificación del agua para eliminar compuestos orgánicos, cloro, olores y sabores. Su alta capacidad de adsorción lo hace ideal para sistemas de filtración domésticos e industriales.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   "ABOUT_US.TITLE": "Sobre Nosotros",
   "ABOUT_US.DESCRIPTION_1": "Somos una empresa establecida en el mercado colombiano desde el año 2000, que ofrece sus productos y servicios para satisfacer las necesidades en el campo de la prestación de servicios públicos de acueductos para tratamiento de agua potable, residual e industrial.",

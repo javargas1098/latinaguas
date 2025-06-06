@@ -9,6 +9,7 @@ import { TranslateService } from '@ngx-translate/core';
 })
 export class Navbar implements OnInit {
   selectedLang = 'es';
+  isMobile: boolean = false;
 
   constructor(private translate: TranslateService) {}
 
@@ -18,11 +19,15 @@ export class Navbar implements OnInit {
     this.translate.use(savedLang);
   }
 
-  changeLang(event: Event) {
+  changeLanguage(event: Event) {
     const target = event.target as HTMLSelectElement;
     const lang = target.value;
     this.translate.use(lang);
     localStorage.setItem('lang', lang);
     this.selectedLang = lang;
+  }
+
+    toggleMenu() {
+    this.isMobile = !this.isMobile;
   }
 }

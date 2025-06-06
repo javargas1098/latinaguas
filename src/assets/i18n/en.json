@@ -46,6 +46,200 @@
   "PRODUCT_2_NAME": "Solenoid Valve",
   "PRODUCT_2_CATEGORY": "Automatic dosing",
   "PRODUCT_2_DESCRIPTION": "Automatic system to control flow in chlorination.",
+  "PRODUCT_3_NAME": "Flexible chlorine connections",
+  "PRODUCT_3_CATEGORY": "Chlorination system accessories",
+  "PRODUCT_3_DESCRIPTION": "Spiral-shaped flexible metal tubing used to connect gaseous chlorine dosing equipment. Designed to absorb vibrations, ease installation, and reduce mechanical stress on valves and regulators.\nMaterial: stainless steel.\nApplications: potable and industrial water treatment plants, gaseous chlorine disinfection systems.",
+  "PRODUCT_4_NAME": "Sherwood Valves",
+  "PRODUCT_4_CATEGORY": "Chlorination components",
+  "PRODUCT_4_DESCRIPTION": "Sherwood-type safety valves designed for gaseous chlorine cylinders. Made from high-strength brass for secure and long-lasting sealing. Compatible with regulators and dosing systems.\nUses: chlorination systems in potable, wastewater, and industrial water treatment plants.",
+  "PRODUCT_5_NAME": "Chlorine cylinder heaters",
+  "PRODUCT_5_CATEGORY": "Chlorination system accessories",
+  "PRODUCT_5_DESCRIPTION": "Band-type electric heaters designed to warm the vaporization area of gaseous chlorine cylinders. Enhance efficient conversion from liquid to gas chlorine, ensuring steady supply.\nMaterial: stainless steel with insulating coating.\nApplications: chlorine dosing systems in water treatment plants.",
+  "PRODUCT_6_NAME": "Chlorine gas filters",
+  "PRODUCT_6_CATEGORY": "Chlorination components",
+  "PRODUCT_6_DESCRIPTION": "Filter designed to remove solid impurities from chlorine gas before entering the regulator or feeder. Made of cast iron with anti-corrosive coating and replaceable internal filter element.\nApplications: chlorination systems in potable, wastewater, and industrial water treatment plants.",
+  "PRODUCT_7_NAME": "Manifold (chlorine trap)",
+  "PRODUCT_7_CATEGORY": "Chlorination safety systems",
+  "PRODUCT_7_DESCRIPTION": "Multi-connection system functioning as a trap for gaseous chlorine, allowing the collection of possible leaks and connection of multiple cylinders. Includes check valve, purge system, and optional gas detection sensor.\nApplications: water treatment plants, chlorine dosing stations, industrial facilities.",
+  "PRODUCT_8_NAME": "Ton-scale chlorine cylinder weighers",
+  "PRODUCT_8_CATEGORY": "Instrumentation and control",
+  "PRODUCT_8_DESCRIPTION": "Heavy-duty electronic platforms designed to weigh one-ton chlorine cylinders. Enable accurate monitoring of gas consumption in chlorination systems.\nConstructed in painted steel with high-precision load cells.\nApplications: water treatment plants, industrial facilities using gaseous chlorine.",
+  "PRODUCT_9_NAME": "Chlorine gas leak detector",
+  "PRODUCT_9_CATEGORY": "Safety and instrumentation",
+  "PRODUCT_9_DESCRIPTION": "Electronic detector for chlorine gas leaks. Includes monitoring unit and remote sensor.\nHigh sensitivity and fast response. Visual indicators and alarms for gas concentration.\nIdeal for water treatment plants, chemical industries, and chlorine storage areas.",
+  "PRODUCT_10_NAME": "One-ton chlorine gas cylinder",
+  "PRODUCT_10_CATEGORY": "Gas containers",
+  "PRODUCT_10_DESCRIPTION": "Steel cylinder for storage and transport of chlorine gas, with a capacity of one ton.\nDesigned according to international safety and pressure standards.\nIdeal for industrial applications such as water treatment, wastewater processing, and chemical processes.",
+  "PRODUCT_11_NAME": "68 kg chlorine gas cylinder",
+  "PRODUCT_11_CATEGORY": "Gas containers",
+  "PRODUCT_11_DESCRIPTION": "Steel cylinder for the storage and transport of chlorine gas, with a 68-kilogram capacity.\nCommonly used in chlorination systems for drinking water, swimming pools, and industrial processes.\nDesigned to comply with current safety and pressure standards.",
+  "PRODUCT_12_NAME": "Chlorine cylinder handling system",
+  "PRODUCT_12_CATEGORY": "Cylinder handling equipment",
+  "PRODUCT_12_DESCRIPTION": "Specialized equipment designed to safely and efficiently lift, move, and position chlorine gas cylinders.\nMade from structural steel with anti-corrosion coating.\nIncludes a secure clamping mechanism and lifting hook compatible with industrial cranes and hoists.",
+  "PRODUCT_13_NAME": "Chemical dosing pump",
+  "PRODUCT_13_CATEGORY": "Pumps and dosing systems",
+  "PRODUCT_13_DESCRIPTION": "High-precision dosing pump used for the controlled injection of chemicals such as sodium hypochlorite, aluminum sulfate, and others.\nDesigned for reliability and chemical resistance.\nManual flow adjustment and high-efficiency electric motor included.",
+  "PRODUCT_14_NAME": "Pressure booster pump",
+  "PRODUCT_14_CATEGORY": "Pumps and pressurization systems",
+  "PRODUCT_14_DESCRIPTION": "Centrifugal pump designed to increase pressure in potable or industrial water distribution systems.\nMade of stainless steel for enhanced durability and corrosion resistance.\nIdeal for domestic, commercial, or water treatment applications.",
+  "PRODUCT_15_NAME": "Ultrasonic radar level meter",
+  "PRODUCT_15_CATEGORY": "Instrumentation and control",
+  "PRODUCT_15_DESCRIPTION": "Non-contact instrument for level measurement in liquids or bulk solids.\nUses radar or ultrasonic technology for precise and reliable detection.\nIdeal for tanks, silos, and containers in potable water, wastewater, chemical, or food applications.",
+  "PRODUCT_16_NAME": "Bulk water meter",
+  "PRODUCT_16_CATEGORY": "Flow measurement and control",
+  "PRODUCT_16_DESCRIPTION": "Woltman-type water meter for high-flow applications in municipal and industrial systems.\nDurable cast iron body with epoxy coating for corrosion resistance.\nCompatible with telemetry systems via pulse output for remote monitoring.",
+  "PRODUCT_17_NAME_EN": "Domestic water meters",
+  "PRODUCT_17_CATEGORY_EN": "Water measurement",
+  "PRODUCT_17_DESCRIPTION_EN": "Compact device used to accurately measure potable water consumption in domestic installations.\nMade of corrosion-resistant materials, with direct reading display and tamper protection.\nIdeal for residential and small-scale commercial applications.",
+  "PRODUCT_18_NAME_EN": "Electromagnetic flow meter",
+  "PRODUCT_18_CATEGORY_EN": "Flow instrumentation and control",
+  "PRODUCT_18_DESCRIPTION_EN": "Volumetric flow measurement device using the principle of electromagnetic induction for conductive liquids.\nIdeal for applications in potable water systems, wastewater, and industrial processes.\nHigh accuracy, no moving parts, low maintenance, and compatible with various operating conditions.",
+  "PRODUCT_19_NAME": "Ultrasonic flow meter",
+  "PRODUCT_19_CATEGORY": "Flow and level measurement",
+  "PRODUCT_19_DESCRIPTION": "Non-invasive ultrasonic flow meter for open channels and partially filled pipes.\nDelivers accurate water flow measurements without direct contact with the liquid.\nIdeal for applications in treatment plants, irrigation channels, and industrial systems.",
+  "PRODUCT_20_NAME_EN": "Type 'A' Chlorine Emergency Kit (American)",
+  "PRODUCT_20_CATEGORY_EN": "Safety and Emergency",
+  "PRODUCT_20_DESCRIPTION_EN": "Tool set designed to control chlorine leaks in 150 lb (68 kg) cylinders.\nIncludes clamps, chains, gaskets, tools, and user manual compliant with Chlorine Institute standards.\nEssential for water treatment plants, chemical industries, and emergency services.",
+  "PRODUCT_21_NAME": "Chlorine safety kit type 'B' (American)",
+  "PRODUCT_21_CATEGORY": "Chemical handling and safety",
+  "PRODUCT_21_DESCRIPTION": "Safety kit designed to contain leaks in one-ton chlorine containers.\nIncludes specialized tools, seals, and containment components manufactured according to Chlorine Institute standards.\nEssential for water treatment plants, chemical industries, and any facility using bulk chlorine.",
+  "PRODUCT_22_NAME": "Encapsulated suit for handling hazardous chemicals",
+  "PRODUCT_22_CATEGORY": "Industrial safety and personal protection",
+  "PRODUCT_22_DESCRIPTION": "High-resistance encapsulated suit designed for total protection against hazardous chemical substances.\nIncludes gloves, boots, user manual, and transport bag.\nIdeal for emergency operations, chlorine handling, and toxic substance management.",
+  "PRODUCT_23_NAME": "Self-Contained Breathing Apparatus (SCBA)",
+  "PRODUCT_23_CATEGORY": "Industrial safety and personal protection",
+  "PRODUCT_23_DESCRIPTION": "High-pressure self-contained breathing apparatus, ideal for operations in contaminated or oxygen-deficient environments.\nIncludes compressed air cylinder, ergonomic harness, pressure regulator, and pressure gauge.\nUsed by emergency personnel, response brigades, and for confined space work.",
+  "PRODUCT_24_NAME": "Full face mask with filters",
+  "PRODUCT_24_CATEGORY": "Industrial safety and personal protection",
+  "PRODUCT_24_DESCRIPTION": "Full-face mask equipped with replaceable filters, ideal for protection against toxic gases, vapors, and particles.\nErgonomic design provides an airtight seal and comfort during long work shifts.\nRecommended for use in chemically hazardous environments.",
+  "PRODUCT_25_NAME": "Safety cabinet for chlorine gas emergency",
+  "PRODUCT_25_CATEGORY": "Industrial safety and personal protection",
+  "PRODUCT_25_DESCRIPTION": "Metal cabinet with glass doors and safety signage, equipped with encapsulated suit, boots, gloves, and full face mask for responding to chlorine gas emergencies.\nDesigned for quick access in critical situations.",
+  "PRODUCT_26_NAME": "Emergency eye wash and shower",
+  "PRODUCT_26_CATEGORY": "Industrial safety and personal protection",
+  "PRODUCT_26_DESCRIPTION": "Combined emergency shower and eye wash station made of stainless steel.\nDesigned to provide rapid decontamination in case of exposure to hazardous substances.\nIdeal for industrial facilities, laboratories, and chemical treatment plants.",
+  "PRODUCT_27_NAME": "Windsock for wind direction detection",
+  "PRODUCT_27_CATEGORY": "Industrial safety and environmental protection",
+  "PRODUCT_27_DESCRIPTION": "High-visibility windsock designed to indicate wind direction in industrial or hazardous areas.\nMade from weather-resistant fabric with a metal support for easy installation.\nEssential for safety during toxic or flammable gas leaks.",
+  "PRODUCT_28_NAME": "Parshall flume",
+  "PRODUCT_28_CATEGORY": "Sedimentation modules",
+  "PRODUCT_28_DESCRIPTION": "The Parshall flume is a hydraulic device used to measure flow in open channels. Made from corrosion-resistant materials, it allows for accurate water flow monitoring in treatment plants, irrigation canals, and hydraulic systems.",
+  "PRODUCT_29_NAME": "Fiberglass water treatment plant",
+  "PRODUCT_29_CATEGORY": "Sedimentation modules",
+  "PRODUCT_29_DESCRIPTION": "Compact water treatment system made of fiberglass, ideal for small communities or industrial facilities. Offers corrosion resistance, easy installation, and low maintenance, including flocculation, sedimentation, and filtration processes.",
+  "PRODUCT_30_NAME": "False bottoms",
+  "PRODUCT_30_CATEGORY": "Sedimentation modules",
+  "PRODUCT_30_DESCRIPTION": "Structures installed in treatment tanks to evenly distribute water flow and improve the efficiency of the sedimentation process. Designed to withstand hydraulic loads and ensure continuous and effective system operation.",
+  "PRODUCT_31_NAME": "Aeration tower",
+  "PRODUCT_31_CATEGORY": "Sedimentation modules",
+  "PRODUCT_31_DESCRIPTION": "Vertical fiberglass structure with a series of perforated trays, designed to enhance water-to-air contact to improve oxygenation and eliminate dissolved gases such as carbon dioxide and hydrogen sulfide.",
+  "PRODUCT_32_NAME": "4-position jar test apparatus",
+  "PRODUCT_32_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_32_DESCRIPTION": "Device used in coagulation and flocculation tests to simulate water treatment processes. It allows the evaluation of chemical efficiency under controlled conditions with four independent mixing jars.",
+  "PRODUCT_33_NAME": "6-position jar test apparatus",
+  "PRODUCT_33_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_33_DESCRIPTION": "Equipment used for coagulation and flocculation testing in the laboratory. It features six mixing jars that allow for parallel simulation of water treatment processes, facilitating comparison of different operating conditions or chemical agents.",
+  "PRODUCT_34_NAME": "Turbidity Meter",
+  "PRODUCT_34_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_34_DESCRIPTION": "Instrument used to measure the turbidity of water, which refers to the amount of suspended particles that affect its clarity. It is essential for drinking water quality control and wastewater treatment processes.",
+  "PRODUCT_35_NAME": "pH Meter",
+  "PRODUCT_35_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_35_DESCRIPTION": "Device used to measure the acidity or alkalinity level of a solution, expressed as pH. It is essential for monitoring and quality control of water in treatment plants, laboratories, and industrial processes.",
+  "PRODUCT_36_NAME": "Colorimeter",
+  "PRODUCT_36_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_36_DESCRIPTION": "Portable instrument used to measure the absorbance of a substance and determine the concentration of compounds in solution based on color intensity. Ideal for water quality analysis and chemical process control.",
+  "PRODUCT_37_NAME": "Conductivity Meter",
+  "PRODUCT_37_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_37_DESCRIPTION": "Portable instrument used to measure the electrical conductivity of a solution, indicating the concentration of dissolved salts. Ideal for water quality analysis in laboratories and fieldwork.",
+  "PRODUCT_38_NAME": "Photometer",
+  "PRODUCT_38_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_38_DESCRIPTION": "Device used to measure the concentration of analytes in solutions by the intensity of absorbed light. Ideal for analyzing parameters such as free and total chlorine, pH, and others in drinking and wastewater.",
+  "PRODUCT_39_NAME": "Laboratory glassware",
+  "PRODUCT_39_CATEGORY": "Laboratory Equipment",
+  "PRODUCT_39_DESCRIPTION": "Set of glass instruments such as Erlenmeyer flasks, beakers, test tubes, and burettes, used for the preparation, mixing, and storage of chemical solutions in analytical and experimental processes.",
+  "PRODUCT_40_NAME": "Gaseous chlorine",
+  "PRODUCT_40_CATEGORY": "Chemicals",
+  "PRODUCT_40_DESCRIPTION": "Gas commonly used as a disinfectant in drinking water and wastewater treatment processes. Supplied in pressurized cylinders and requires specialized handling due to its toxicity and reactivity.",
+  "PRODUCT_41_NAME": "Aluminum sulfate Type A",
+  "PRODUCT_41_CATEGORY": "Chemicals",
+  "PRODUCT_41_DESCRIPTION": "Coagulant used in the treatment of drinking water and wastewater. Aids in the removal of suspended solids and organic matter. Contains a minimum of 17% Al₂O₃ and is certified for potable water use.",
+  "PRODUCT_42_NAME": "Aluminum sulfate Type B",
+  "PRODUCT_42_CATEGORY": "Chemicals",
+  "PRODUCT_42_DESCRIPTION": "Coagulant for the treatment of drinking water and wastewater. Contains a minimum of 15.2% Al₂O₃, up to 2.0% iron, and 8.0% water-insoluble content. Approved for potable water use.",
+  "PRODUCT_43_NAME": "Solid polyaluminum chloride",
+  "PRODUCT_43_CATEGORY": "Chemicals",
+  "PRODUCT_43_DESCRIPTION": "High-efficiency coagulant used in drinking and industrial water treatment. Certified under NSF/ANSI 60. Supplied in 25 kg bags. Origin: China.",
+  "PRODUCT_44_NAME": "Liquid aluminum hydroxychloride",
+  "PRODUCT_44_CATEGORY": "Chemicals",
+  "PRODUCT_44_DESCRIPTION": "High-performance liquid coagulant used in clarification and treatment of drinking and industrial water. Supplied in liquid form for easier dosing and plant handling.",
+  "PRODUCT_45_NAME": "Imported granular calcium hypochlorite",
+  "PRODUCT_45_CATEGORY": "Chemicals",
+  "PRODUCT_45_DESCRIPTION": "Granular disinfectant with 70% available chlorine content, ideal for potable water treatment, swimming pools, and industrial processes. Offers high solubility and strong oxidizing power.",
+  "PRODUCT_46_NAME": "Liquid sodium hypochlorite",
+  "PRODUCT_46_CATEGORY": "Chemicals",
+  "PRODUCT_46_DESCRIPTION": "Broad-spectrum liquid disinfectant used for water treatment, cleaning, and surface disinfection. Highly effective against bacteria, viruses, and fungi. Net content: 3750 mL.",
+  "PRODUCT_47_NAME": "Flocculant",
+  "PRODUCT_47_CATEGORY": "Chemicals",
+  "PRODUCT_47_DESCRIPTION": "Water treatment clarifier that aggregates suspended particles, making them easier to remove through filtration. Ideal for pools with liner or polyester coating. Easy-to-apply liquid presentation.",
+  "PRODUCT_48_NAME": "Gravel",
+  "PRODUCT_48_CATEGORY": "Filter Media",
+  "PRODUCT_48_DESCRIPTION": "Granular material used as a filter media in water treatment systems. It helps retain solid particles and enhances the efficiency of the filtration process. Available in different grain sizes depending on system requirements.",
+  "PRODUCT_49_NAME": "Sand",
+  "PRODUCT_49_CATEGORY": "Filter Media",
+  "PRODUCT_49_DESCRIPTION": "Filter media commonly used in water treatment systems for the removal of suspended solids. Its fine grain size allows for high efficiency in filtering small particles.",
+  "PRODUCT_50_NAME": "Anthracite",
+  "PRODUCT_50_CATEGORY": "Filter Media",
+  "PRODUCT_50_DESCRIPTION": "Mineral coal used as a filter media in water treatment systems. Its high hardness and low density allow for efficient filtration and extended lifespan of multilayer systems.",
+  "PRODUCT_51_NAME": "Activated Carbon",
+  "PRODUCT_51_CATEGORY": "Filter Media",
+  "PRODUCT_51_DESCRIPTION": "Porous material used in water purification to remove organic compounds, chlorine, odors, and tastes. Its high adsorption capacity makes it ideal for both domestic and industrial filtration systems.",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   "ABOUT_US.TITLE": "About Us",
   "ABOUT_US.DESCRIPTION_1": "We are a company established in the Colombian market since the year 2000, offering products and services to meet the needs in the field of public aqueduct services for the treatment of drinking, wastewater, and industrial water.",
