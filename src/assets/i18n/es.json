@@ -1,17 +1,20 @@
 {
   "HOME": "Inicio",
+  "SERVICES": "Servicios",
+  "PROJECTS": "Proyectos",
   "PRODUCTS": "Productos",
   "ABOUT_US": "Sobre Nosotros",
   "CONTACT": "Contacto",
 
-  "hero.title": "AGUA PARA TODOS",
+  "hero.title": "LATINOAMERICA DE AGUAS LTDA",
   "hero.button": "Explorar más",
 
   "about.title": "Sobre Nosotros",
   "about.description": "Somos una empresa establecida en el mercado colombiano desde el año 2000, ofreciendo productos y servicios en el campo de los sistemas públicos de suministro de agua, incluyendo tratamiento de agua potable, residual e industrial.",
   "about.description2": "Nuestro equipo está compuesto por profesionales altamente calificados que brindan asesoría técnica y un servicio personalizado, ofreciendo soluciones integrales adaptadas a necesidades tanto nacionales como internacionales.",
+  "about.button": "Ver Más",
 
-  "products.title": "Productos",
+  "products.title": "Nuestro Servicio",
   "products.card1.title": "Alta Calidad y Experiencia",
   "products.card1.description": "Más de 20 años brindando soluciones de tratamiento de agua en Colombia.",
   "products.card2.title": "Servicio Personalizado",
@@ -20,9 +23,12 @@
   "products.card3.description": "Llevamos agua limpia a comunidades vulnerables en Colombia.",
   "products.card4.title": "Innovación",
   "products.card4.description": "Lideramos en automatización y sistemas únicos de tratamiento de agua.",
-  "products.button": "Ver Productos",
+  "products.button": "Ver Servicios",
 
-  "services.title": "¿Qué Ofrecemos?",
+  "SERVICES_TITLE":"Servicios",
+
+  "home.title.part1": "¿Qué",
+  "home.title.part2": "Ofrecemos?",
   "services.card1.title": "Proyectos",
   "services.card1.description": "Diseñamos y construimos plantas de tratamiento compactas o convencionales, sistemas de desinfección, automatización SCADA y sistemas de neutralización de fugas.",
   "services.card2.title": "Servicios",
@@ -30,6 +36,9 @@
   "services.card3.title": "Soporte",
   "services.card3.description": "Soporte técnico y operativo continuo para garantizar el éxito a largo plazo de tus sistemas de agua.",
   "services.button": "Ver Más",
+
+  "PROJECTS_TITLE": "Nuestros Proyectos",
+  "PROJECTS_BUTTON": "Ver Proyectos",
 
   "PRODUCTS_TITLE": "Productos",
   "VIDEO_FALLBACK": "Tu navegador no soporta la reproducción de video.",
@@ -39,6 +48,58 @@
   "MODAL_IMAGE_ALT": "Imagen producto",
   "MODAL_NAME_LABEL": "Nombre",
   "MODAL_DESCRIPTION_LABEL": "Descripción",
+
+  "SERVICESP_TITLE":"Servicios",
+  "SERVICES_SUBTITLE": "Soluciones energéticas sostenibles para tu proyecto.",
+  "SERVICES_PARAGRAPH_1": "Somos una empresa establecida en el mercado colombiano desde el año 2000, que ofrece sus productos y servicios para satisfacer las necesidades en el campo de la prestación de servicios públicos de acueductos para tratamiento de agua potable, residual e industrial.",
+  "SERVICES_PARAGRAPH_2": "Contamos con personal altamente calificado para ofrecer asesoría técnica y atención personalizada, con el fin de brindar soluciones integrales frente a las necesidades del mercado nacional e internacional.",
+  "SERVICES_PARAGRAPH_3": "Ofrecemos una amplia gama de servicios especializados que abarcan desde el diseño de plantas de tratamiento hasta la automatización completa de los procesos. Nuestro enfoque combina experiencia técnica, personal altamente calificado y soluciones personalizadas para optimizar el tratamiento de aguas y mejorar la eficiencia operativa de sistemas hidráulicos.",
+  
+
+
+  "REVISION_TITLE": "Revisión y diagnóstico de equipos",
+  "REVISION_DESC": "Servicios de evaluación completa para identificar el estado de los equipos y garantizar su correcto funcionamiento.",
+
+  "MAINTENANCE_TITLE": "Mantenimiento preventivo y correctivo",
+  "MAINTENANCE_DESC": "Ofrecemos mantenimiento en instalaciones del cliente y en las de Servicloro, asegurando la operatividad de los sistemas.",
+
+  "TECHNICAL_ADVICE_TITLE": "Asesoría técnica para instalación y puesta en marcha",
+  "TECHNICAL_ADVICE_DESC": "Acompañamiento especializado en instalación de equipos y optimización de sistemas de tratamiento.",
+
+  "TRAINING_TITLE": "Capacitaciones en equipos y funcionamiento",
+  "TRAINING_DESC": "Entrenamiento a personal en el uso, manejo y mantenimiento de equipos para garantizar su correcta operación.",
+
+  "SUPPLY_TITLE": "Suministro de repuestos en marcas representadas",
+  "SUPPLY_DESC": "Disponibilidad de repuestos originales para garantizar la durabilidad y el rendimiento óptimo de los equipos.",
+
+  "QUOTE_BUTTON": "Cotizar",
+
+
+  "PROJECTSP_TITLE": "Proyectos",
+  "PROJECTS_SUBTITLE": "Soluciones innovadoras para el acceso sostenible al agua limpia",
+
+  "PROJECTS_PARAGRAPH_1": "Desde nuestros inicios, hemos trabajado en el desarrollo e implementación de proyectos de agua potable en diversas comunidades, tanto urbanas como rurales. Nuestro propósito ha sido garantizar un acceso confiable, seguro y sostenible al recurso hídrico, impactando de manera positiva la salud y la calidad de vida de miles de familias.",
+  "PROJECTS_PARAGRAPH_2": "Cada iniciativa que llevamos a cabo se diseña y ejecuta bajo rigurosos estándares de calidad, priorizando la innovación tecnológica y el respeto por el medio ambiente. De esta forma, no solo aseguramos agua limpia y segura, sino que también promovemos soluciones sostenibles que perduran en el tiempo y fortalecen el bienestar comunitario.",
+  "PROJECTS_PARAGRAPH_3": "Trabajamos de la mano con entidades locales para generar soluciones sostenibles y de impacto social.",
+  "PROJECTS_PARAGRAPH_4": "A continuación presentamos algunos ejemplos de nuestros proyectos exitosos.",
+
+  "PROJECT_1_TITLE": "Planta de Tratamiento en Zipaquirá",
+  "PROJECT_1_DESC": "Construcción de una planta para potabilizar agua de río y distribuirla a más de 10,000 habitantes.",
+
+  "PROJECT_2_TITLE": "Pozos Profundos en La Guajira",
+  "PROJECT_2_DESC": "Instalación de pozos subterráneos con sistemas de bombeo solar para comunidades rurales.",
+
+  "PROJECT_3_TITLE": "Red de Distribución en Cundinamarca",
+  "PROJECT_3_DESC": "Modernización de la red de tuberías para reducir fugas y mejorar la calidad del suministro.",
+
+  "PROJECT_4_TITLE": "Sistemas de Filtración Comunitaria",
+  "PROJECT_4_DESC": "Implementación de filtros biológicos en escuelas rurales para garantizar agua segura a estudiantes.",
+
+  "PROJECT_5_TITLE": "Tanques de Almacenamiento en Boyacá",
+  "PROJECT_5_DESC": "Construcción de tanques elevados para garantizar la presión y continuidad del servicio.",
+
+  "PROJECT_6_TITLE": "Educación y Conciencia Hídrica",
+  "PROJECT_6_DESC": "Programas de formación comunitaria sobre uso responsable y cuidado del recurso hídrico.",
 
   "PRODUCT_1_NAME": "Clorinador ON-LINE A-100",
   "PRODUCT_1_CATEGORY": "Equipos de desinfección",
@@ -196,48 +257,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   "ABOUT_US.TITLE": "Sobre Nosotros",
   "ABOUT_US.DESCRIPTION_1": "Somos una empresa establecida en el mercado colombiano desde el año 2000, que ofrece sus productos y servicios para satisfacer las necesidades en el campo de la prestación de servicios públicos de acueductos para tratamiento de agua potable, residual e industrial.",
   "ABOUT_US.DESCRIPTION_2": "Contamos con personal altamente calificado para ofrecer asesoría técnica y atención personalizada, con el fin de ofrecer soluciones integrales frente a las necesidades del mercado nacional e internacional.",
@@ -267,18 +286,18 @@
     "title": "Contáctanos",
     "subtitle": "Latinaguas está lista para ofrecer la solución adecuada según tus necesidades",
     "getInTouch": "Ponte en contacto",
-    "description": "Sociis natoque viverra lectus placerat sem efficitur molestie vehicula cubilia leo etiam nam.",
+    "description": "En Latinaguas trabajamos para brindarte atención personalizada y soluciones efectivas para tu proyecto o necesidad.",
     "office": {
       "title": "Oficina",
-      "address": "Suegrito Javi\nColombia"
+      "address": "Calle 176 #53-10"
     },
     "email": {
       "title": "Envíanos un correo",
-      "addresses": "support@yourdomain.tld"
+      "addresses": "administracion@latinaguas.com"
     },
     "phone": {
       "title": "Llámanos",
-      "numbers": "Teléfono: +6221.2020.2012"
+      "numbers": "Teléfono: +57 3102356810- 310 852 3813"
     },
     "social": {
       "title": "Síguenos en redes sociales"

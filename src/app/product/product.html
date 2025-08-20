@@ -3,7 +3,7 @@
   <div class="absolute top-0 left-0 w-full h-full bg-black/40 z-0"></div>
 
   <div class="relative z-10 w-full max-w-3xl text-center mb-10 px-2">
-    <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white">{{ 'PRODUCTS_TITLE' | translate }}</h1>
+    <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white uppercase mt-10 mb-10">{{ 'PRODUCTS_TITLE' | translate }}</h1>
   </div>
 
   <div class="relative z-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 w-full max-w-7xl">
@@ -19,7 +19,7 @@
         />
       </div>
       <div class="p-4 flex flex-col flex-grow">
-        <h2 class="text-base sm:text-lg font-semibold text-gray-800">{{ producto.nombreKey | translate }}</h2>
+        <h2 class="text-xs sm:text-xl font-semibold text-gray-800">{{ producto.nombreKey | translate }}</h2>
         <p class="text-xs sm:text-sm text-gray-500">{{ producto.categoriaKey | translate }}</p>
         <div class="mt-auto flex justify-end">
           <button
@@ -58,8 +58,19 @@
         <button class="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300" (click)="cerrarDialogo()">
           Atrás
         </button>
+        <button class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+                (click)="agregarAlCarrito(productoSeleccionado)">
+          Agregar al carrito
+        </button>
       </div>
+
     </div>
   </div>
 
 </div>
+
+<div *ngIf="toastVisible"
+     class="fixed top-20 right-4 bg-green-500 text-white px-4 py-2 rounded shadow-lg z-[9999] animate-fade-in-out">
+  Producto agregado al carrito
+</div>
+

@@ -1,6 +1,7 @@
 import { NgModule, provideBrowserGlobalErrorListeners } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing-module';
 import { App } from './app.component';
@@ -14,6 +15,9 @@ import { Footer } from './shared/footer/footer';
 // Importaciones para ngx-translate
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { Conditions } from './conditions/conditions';
+import { Services } from './services/services';
+import { Projects } from './projects/projects';
 
 // Función para cargar traducciones
 export function HttpLoaderFactory(http: HttpClient) {
@@ -29,10 +33,14 @@ export function HttpLoaderFactory(http: HttpClient) {
     AboutComponent,
     ContactComponent,
     Footer,
+    Conditions,
+    Services,
+    Projects,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
+    FormsModule,
     HttpClientModule,
     TranslateModule.forRoot({
       defaultLanguage: 'es',

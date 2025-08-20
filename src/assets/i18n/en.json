@@ -1,17 +1,20 @@
 {
   "HOME": "Home",
+  "SERVICES": "Services",
+  "PROJECTS": "Projects",
   "PRODUCTS": "Products",
   "ABOUT_US": "About Us",
   "CONTACT": "Contact",
 
-  "hero.title": "WATER FOR EVERYONE",
+  "hero.title": "LATIN AMERICA WATER LTDA",
   "hero.button": "Explore More",
 
   "about.title": "About Us",
   "about.description": "We are a company established in the Colombian market since the year 2000, offering products and services in the field of public water supply systems, including potable, wastewater, and industrial water treatment.",
   "about.description2": "Our team is composed of highly qualified professionals who provide technical advice and personalized service, delivering comprehensive solutions tailored to both national and international needs.",
+    "about.button": "See More",
 
-  "products.title": "Products",
+  "products.title": "Our Service",
   "products.card1.title": "High Quality & Experience",
   "products.card1.description": "Over 20 years providing water treatment solutions in Colombia.",
   "products.card2.title": "Personalized Service",
@@ -20,9 +23,10 @@
   "products.card3.description": "We bring clean water to vulnerable communities in Colombia.",
   "products.card4.title": "Innovation",
   "products.card4.description": "Leading in automation and unique water treatment systems.",
-  "products.button": "See Products",
+  "products.button": "See Services",
 
-  "services.title": "What We Offer?",
+  "home.title.part1": "What We",
+  "home.title.part2": "Offer?",
   "services.card1.title": "Projects",
   "services.card1.description": "We design and build compact or conventional treatment plants, disinfection systems, SCADA automation, and leak neutralization systems.",
   "services.card2.title": "Services",
@@ -30,6 +34,11 @@
   "services.card3.title": "Support",
   "services.card3.description": "Continuous technical and operational support to ensure long-term success of your water systems.",
   "services.button": "See More",
+
+  "PROJECTS_TITLE": "Our Projects",
+  "PROJECTS_BUTTON": "See Projects",
+
+  "SERVICES_TITLE":"SERVICES",
 
   "PRODUCTS_TITLE": "Products",
   "VIDEO_FALLBACK": "Your browser does not support video playback.",
@@ -39,6 +48,23 @@
   "MODAL_IMAGE_ALT": "Product image",
   "MODAL_NAME_LABEL": "Name",
   "MODAL_DESCRIPTION_LABEL": "Description",
+
+
+  "PROJECTSP_TITLE": "Projects",
+  "PROJECTS_SUBTITLE": "Some of our most outstanding works",
+  "PROJECTS_PARAGRAPH_1": "Since our beginnings, we have carried out projects in different areas...",
+  "PROJECTS_PARAGRAPH_2": "Each project is developed under strict quality standards...",
+  "PROJECTS_PARAGRAPH_3": "We work hand in hand with our clients to ensure successful results...",
+  "PROJECTS_PARAGRAPH_4": "Below we present some examples of our successful projects.",
+  
+  "PROJECT_1_TITLE": "Water Treatment Plants Project",
+  "PROJECT_1_DESC": "Implementation of modern water treatment systems for local communities.",
+  
+  "PROJECT_2_TITLE": "Energy Optimization",
+  "PROJECT_2_DESC": "Modernization of industrial systems to reduce costs and increase efficiency.",
+  
+  "PROJECT_3_TITLE": "Training and Technology Transfer",
+  "PROJECT_3_DESC": "Specialized training for the management of new technologies in the energy sector.",
 
   "PRODUCT_1_NAME": "ON-LINE Chlorinator A-100",
   "PRODUCT_1_CATEGORY": "Disinfection equipment",
@@ -271,18 +297,18 @@
     "title": "Contact us",
     "subtitle": "Latinaguas is ready to provide the right solution according to your needs",
     "getInTouch": "Get in touch",
-    "description": "Sociis natoque viverra lectus placerat sem efficitur molestie vehicula cubilia leo etiam nam.",
+    "description": "At Latinaguas, we work to provide you with personalized attention and effective solutions for your project or needs.",
     "office": {
       "title": "Office",
-      "address": "Suegrito Javi\nColombia"
+      "address": "176th Street #53-10"
     },
     "email": {
       "title": "Email Us",
-      "addresses": "support@yourdomain.tld"
+      "addresses": "administracion@latinaguas.com"
     },
     "phone": {
       "title": "Call Us",
-      "numbers": "Phone: +6221.2020.2012"
+      "numbers": "Phone: +57 3102356810- 310 852 3813"
     },
     "social": {
       "title": "Follow our social media"

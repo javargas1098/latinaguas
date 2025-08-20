@@ -1,43 +1,44 @@
-<header class="fixed top-0 left-0 w-full px-4 sm:px-6 py-4 flex justify-between items-center z-50 text-white">
+<header 
+  class="fixed top-0 left-0 w-full px-4 sm:px-6 py-3 flex justify-between items-center z-50 
+         transition-all duration-500 ease-in-out text-white"
+  [ngClass]="{ 
+    'bg-gradient-to-r from-gray-900/95 to-gray-900/95 shadow-xl backdrop-blur-md': darkBackground,
+    'bg-transparent': !darkBackground
+  }"
+>
   <div class="flex items-center space-x-2">
-    <img src="../../assets/logo2.png" alt="Logo Latinaguas" class="h-10 w-auto" />
-    <span class="text-xs sm:text-sm uppercase tracking-wide">LATINAGUAS</span>
+    <img src="../../assets/logo2.png" alt="Logo Latinaguas" class="h-16 w-auto transition-all duration-500" 
+         [ngClass]="{ 'h-12': darkBackground, 'h-16': !darkBackground }"/>
+    <span class="titulo flex space-x-4 text-lg font-semibold tracking-wide">LATINAGUAS</span>
   </div>
 
   <nav class="hidden md:flex items-center space-x-4">
-    <ul class="flex space-x-4 text-sm">
-      <li><a routerLink="/home" routerLinkActive="underline" class="hover:underline">{{ 'HOME' | translate }}</a></li>
-      <li><a routerLink="/products" routerLinkActive="underline" class="hover:underline">{{ 'PRODUCTS' | translate }}</a></li>
-      <li><a routerLink="/about" routerLinkActive="underline" class="hover:underline">{{ 'ABOUT_US' | translate }}</a></li>
-      <li><a routerLink="/contact" routerLinkActive="underline" class="hover:underline">{{ 'CONTACT' | translate }}</a></li>
+    <ul class="flex space-x-6 text- font-medium uppercase">
+      <li><a routerLink="/home" class="hover:text-blue-400 transition">{{ 'HOME' | translate }}</a></li>
+      <li><a routerLink="/products" class="hover:text-blue-400 transition">{{ 'PRODUCTS' | translate }}</a></li>
+      <li><a routerLink="/services" class="hover:text-blue-400 transition">{{ 'SERVICES' | translate }}</a></li>
+      <li><a routerLink="/projects" class="hover:text-blue-400 transition">{{ 'PROJECTS' | translate }}</a></li>
+      <li><a routerLink="/about" class="hover:text-blue-400 transition">{{ 'ABOUT_US' | translate }}</a></li>
+      <li><a routerLink="/contact" class="hover:text-blue-400 transition">{{ 'CONTACT' | translate }}</a></li>
     </ul>
     <select 
       (change)="changeLanguage($event)" 
       [value]="selectedLang"
-      class="bg-transparent text-black border border-white rounded-md px-2 py-1 text-xs shadow focus:outline-none focus:ring-2 focus:ring-blue-500"
+      class="ml-4 bg-transparent text-white border border-white rounded-md px-2 py-1 text-xs shadow 
+             focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
     >
       <option value="es">ES</option>
       <option value="en">EN</option>
     </select>
   </nav>
 
+  <!-- Menú móvil -->
   <div class="md:hidden">
-    <button (click)="toggleMenu()" class="text-white focus:outline-none">
-      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <button (click)="toggleMenu()" class="text-white focus:outline-none transition">
+      <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
               d="M4 6h16M4 12h16M4 18h16" />
       </svg>
     </button>
   </div>
-
-  <div *ngIf="isMobile" class="fixed top-16 left-0 w-full bg-white text-black py-4 px-6 shadow-md z-40 md:hidden">
-  <ul class="flex flex-col space-y-4 text-sm">
-    <li><a routerLink="/home" routerLinkActive="font-bold">{{ 'HOME' | translate }}</a></li>
-    <li><a routerLink="/products" routerLinkActive="font-bold">{{ 'PRODUCTS' | translate }}</a></li>
-    <li><a routerLink="/about" routerLinkActive="font-bold">{{ 'ABOUT_US' | translate }}</a></li>
-    <li><a routerLink="/contact" routerLinkActive="font-bold">{{ 'CONTACT' | translate }}</a></li>
-  </ul>
-
-</div>
-
 </header>

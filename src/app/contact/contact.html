@@ -38,7 +38,7 @@
         </div>
       </div>
 
-      <div class="mt-6">
+      <!-- <div class="mt-6">
         <h4 class="font-semibold mb-2">{{ 'contact.social.title' | translate }}</h4>
         <div class="flex space-x-3">
 
@@ -56,24 +56,40 @@
         </button>
 
         </div>
-      </div>
+      </div> -->
     </div>
 
   
-    <div class="p-10">
-      <h3 class="text-2xl font-semibold mb-6">{{ 'contact.form.title' | translate }}</h3>
-      <form class="space-y-5">
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-          <input type="text" placeholder="{{ 'contact.form.name' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-          <input type="text" placeholder="{{ 'contact.form.company' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-          <input type="text" placeholder="{{ 'contact.form.phone' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-          <input type="email" placeholder="{{ 'contact.form.email' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-        </div>
-        <input type="text" placeholder="{{ 'contact.form.subject' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500" />
-        <textarea rows="4" placeholder="{{ 'contact.form.message' | translate }}" class="w-full border border-gray-300 rounded-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500"></textarea>
-        <button type="submit" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-lg w-full">{{ 'contact.form.submit' | translate }}</button>
-      </form>
+  <form class="space-y-5 p-10" #contactForm="ngForm" (ngSubmit)="sendEmail($event)">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <input type="text" name="name" placeholder="{{ 'contact.form.name' | translate }}" class="..." required />
+      <input type="text" name="phone" placeholder="{{ 'contact.form.phone' | translate }}" class="..." />
     </div>
+
+    <input type="email" name="email" placeholder="{{ 'contact.form.email' | translate }}" class="..." required />
+    <input type="text" name="subject" placeholder="{{ 'contact.form.subject' | translate }}" class="..." />
+    <textarea rows="4" name="message" placeholder="{{ 'contact.form.message' | translate }}" class="..."></textarea>
+
+    <div class="flex items-center space-x-2">
+      <input type="checkbox" id="terms" [(ngModel)]="acceptedTerms" name="terms" class="w-4 h-4">
+      <label for="terms" class="text-sm text-gray-700">
+        Acepto 
+        <a [routerLink]="['/conditions']" class="text-blue-600 hover:underline">
+          términos y condiciones
+        </a>
+      </label>
+    </div>
+
+    <button 
+      type="submit" 
+      [disabled]="!acceptedTerms" 
+      class="font-semibold px-6 py-3 rounded-lg w-full transition-colors"
+      [ngClass]="acceptedTerms ? 'bg-blue-600 hover:bg-blue-700 text-white' : 'bg-gray-400 text-gray-200 cursor-not-allowed'">
+      {{ 'contact.form.submit' | translate }}
+    </button>
+  </form>
+
+
   </div>
 </section>
 

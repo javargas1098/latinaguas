@@ -1,21 +1,44 @@
+<footer class="bg-blue-900 text-white py-10">
+  <div class="max-w-7xl mx-auto px-6 grid grid-cols-1 md:grid-cols-4 gap-8">
 
-<footer id="contact" class="bg-blue-900 text-white py-10 px-6">
-  <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center text-center md:text-left space-y-6 md:space-y-0">
-    
-    <div class="flex items-center space-x-4">
-      <img src="../../assets/logo2.png" alt="Latinaguas Logo" class="h-10 w-auto">
-      <span class="font-semibold tracking-wide text-sm uppercase">Latinaguas</span>
+    <!-- Logo & About -->
+    <div>
+      <h2 class="text-lg font-bold"><img class="px-20 py-2 rounded-xs" src="assets/LogoGlobo.png" alt=""></h2>
+      <p class="text-sm text-gray-300">Lideres en mantenimiento y venta de equipos para plantas de tratamiento de agua</p>
     </div>
 
-    <div class="text-sm space-y-1">
-      <p>Email: <a href="mailto:administracion@latiguas.com" class="underline hover:text-blue-300">administracion&#64;latiguas.com
-</a></p>
-      <p>Tel: +57 123 456 7890</p>
+    <div>
+      <h3 class="mt-4 text-white-400 font-semibold">Acerca</h3>
+      <p class="mt-2 text-sm text-gray-300">
+        We want to help bring talented students and unique startups together.
+      </p>
     </div>
 
-    <div class="text-sm text-gray-300">
-      &copy; 2025 Latinaguas. All rights reserved.
+    <!-- Information -->
+    <div>
+      <h3 class="text-white-400 font-semibold">Links</h3>
+      <ul class="mt-2 space-y-2 text-sm text-gray-300">
+       <li><a routerLink="/home" routerLinkActive="" class="hover:underline">{{ 'HOME' | translate }}</a></li>
+      <li><a routerLink="/products" routerLinkActive="" class="hover:underline">{{ 'PRODUCTS' | translate }}</a></li>
+      <li><a routerLink="/about" routerLinkActive="" class="hover:underline">{{ 'ABOUT_US' | translate }}</a></li>
+      <li><a routerLink="/contact" routerLinkActive="" class="hover:underline">{{ 'CONTACT' | translate }}</a></li>
+      </ul>
     </div>
 
+    <!-- Helpful Links -->
+    <div>
+      <h3 class="text-white-800 font-semibold">Información</h3>
+      <ul class="mt-2 space-y-2 text-sm text-gray-300">
+      <li><a href="#" class="hover:text-white">Calle 176 #53-10</a></li>
+      <p class="flex items-center mt-2 text-sm">+57 3102356810</p>
+      <p class="flex items-center mt-1 text-sm">administracion&#64;latinaguas.com</p>
+      <li><a routerLink="/conditions" routerLinkActive="" class="hover:underline">Terminos y Condiciones</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- Divider -->
+  <div class="border-t border-gray-500 mt-8 pt-6 text-center">
+    <p class="text-sm text-gray-300">2018 © Latinaguas. All Right reserved</p>
   </div>
 </footer>
