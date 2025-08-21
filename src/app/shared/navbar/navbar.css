@@ -4,3 +4,19 @@
   font-size: 25px;
   font-style: normal;
 }
+
+/* Estilo del select cerrado */
+select {
+  background-color: #3b4a59; /* gris oscuro de fondo */
+  color: white;              /* texto blanco en cerrado */
+  border-radius: 6px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+/* Opciones del select desplegado */
+select option {
+  color: black;      /* texto negro al desplegar */
+  background: white; /* fondo blanco */
+}
