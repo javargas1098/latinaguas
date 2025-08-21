@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import emailjs, { EmailJSResponseStatus } from 'emailjs-com';
+import emailjs, { EmailJSResponseStatus } from '@emailjs/browser';
 
 @Component({
   selector: 'app-contact',
@@ -11,20 +11,21 @@ export class ContactComponent {
 
    acceptedTerms = false;
 
-  sendEmail(e: Event) {
-    e.preventDefault();
+  sendEmail(event: Event) {
+    event.preventDefault();
 
     emailjs.sendForm(
       'service_mea8q56',   // Service ID
-      'template_xxxxx',    // Template ID
-      e.target as HTMLFormElement,
-      'public_xxxxx'       // Public Key
-    ).then((result: EmailJSResponseStatus) => {
-      alert('Mensaje enviado correctamente');
-    }, (error) => {
-      console.error(error.text);
-      alert('Hubo un error al enviar el mensaje');
+      'template_aji114j',  // Template ID
+      event.target as HTMLFormElement,
+      'LqLH7mWLLiKWQPIYV'  // Public Key
+    )
+    .then((result: EmailJSResponseStatus) => {
+      alert('✅ Mensaje enviado con éxito');
+      (event.target as HTMLFormElement).reset(); // limpiar form
+      this.acceptedTerms = false; // reset checkbox
+    }, (error: any) => { // 👈 tipo explícito
+      alert('❌ Error al enviar el mensaje: ' + JSON.stringify(error));
     });
   }
-
 }
